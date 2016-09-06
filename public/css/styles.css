@@ -1,0 +1,65 @@
+  /* Background grey for some rows*/
+  .bg-grey {
+      background-color: #f6f6f6;
+  }
+
+.mynavbar {
+	text-align:center;
+      margin-bottom: 0;   
+      z-index: 9999;
+      border: 0;
+      font-size: 12px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+}
+ .navbar-nav li a:hover, .navbar-nav li.active a {
+      background-color: #fff !important;
+  }
+.mynavbar .nav {
+	float:none;
+}
+
+.btn-h1-spacing {
+	margin-top: 18px;
+}
+.form-spacing-top{
+	margin-top: 30px;
+}
+.comment {
+	margin-bottom: 45px;
+}
+.author-image {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+}
+.author-name {
+	float: left;
+	margin-left: 15px;
+	
+
+}
+.author-name>h4 {
+	margin: 5px 0px;	
+
+}
+.author-time {
+	font-size: 11px;
+	font-style: italic;
+	color: #aaa;
+}
+.comment-content {
+	clear:both;
+	margin-left: 65px;
+	font-size: 16px;
+	line-height: 1.3em;
+}
+.comments-title {
+	margin-bottom: 45px;
+}
+
+.comments-title>span {
+	margin-right: 15px;
+}
